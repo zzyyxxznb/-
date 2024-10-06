@@ -6,9 +6,9 @@
 
 ## 二、主流商业数据库系统
 
-- **Oracle Database**：以其强大的事务支持和高可用性著称，广泛用于企业级应用。
+- **Oracle Database**：Oracle Database 是 Oracle 公司开发的数据库管理系统，用于存储、管理和检索数据。它提供了数据存储、数据安全、数据备份和恢复、并发控制、查询优化等一系列功能，以支持企业级应用程序的运行。
 
-- **Microsoft SQL Server**：集成在Microsoft生态系统中，适合中小型企业和大型企业，易于管理。
+- **Microsoft SQL Server**：Microsoft SQL Server 是由微软公司开发的一款关系型数据库管理系统。它被广泛应用于企业级数据管理、数据分析和商业智能等领域，为各种规模的组织提供可靠、高效的数据存储和处理解决方案。
 
 - **MySQL (Enterprise Edition)**：以开放源代码起家，现已成为企业版，支持高并发环境。
 
